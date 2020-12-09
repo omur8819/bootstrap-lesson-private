@@ -1,0 +1,46 @@
+body {
+  background-color: #4f80e2;
+}
+
+
+
+.img-fluid , .rounded-circle {
+  width: 2.8em;
+  
+}
+
+.navbar {
+  background-color: #a16ef7;
+  height: min-content;
+  padding: 1px 10px 1px 10px;
+}
+
+h2 {
+  color: white;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.jumbotron {
+  background-color: #4f80e2 ;
+  color: white;
+}
+
+.card-header {
+  font-size: 2em;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.col-12, .col-md-3 {
+  align-self: center;
+}
+.container-fluid {
+  color: white;
+}
+
+.footer {
+  background-color: #a16ef7;
+  color: white;
+}
+
+li a, .mail{
+  color: white;
+}
